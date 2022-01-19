@@ -35,11 +35,13 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
       <br>
       <video width="320" height="240" controls> <source src="pokemom.mp4" type="video/mp4"> </video> 
       <br>
-      <h3> Twitter Clone App </h3>  
       <br>
-       <img src="/twitter1.png" alt="html" width="300" height="300">
-       <img src="/twitter2.png" alt="html" width="300" height="300">
-       <img src="/twitter3.png" alt="html" width="300" height="300">
+      <h3> Twitter Clone App </h3>  
+       <p align="left">
+        <img src="/twitter1.png" alt="html" width="300" height="300">
+        <img src="/twitter2.png" alt="html" width="300" height="300">
+        <img src="/twitter3.png" alt="html" width="300" height="300">
+       </p>
       <br>
 </div>
 
