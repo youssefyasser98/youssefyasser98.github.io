@@ -54,19 +54,19 @@ GPA : 3.82 "Excellent with Honors"
 ## Certificates
  
  <p align="left">
-   <img src="/Udacity2.png" alt="cert" width="200" height="250">
+   <img src="/Udacity2.png" alt="cert" width="200" height="200">
    <img src="/Udacity1.png" alt="cert" width="200" height="200">
    <img src="/ITI .Net Web Development.jpeg" alt="cert" width="200" height="200">
-   <img src="/python.png" alt="cert" width="200" height="250">
-   <img src="/RPA & Intelligent Automation using Python certificate.jpg" alt="cert" width="200" height="250">
-   <img src="/CSS,JavaScript,PHP.png" alt="cert" width="200" height="250">
-   <img src="/JavaScript.png" alt="cert" width="200" height="250">
-   <img src="/php.png" alt="cert" width="200" height="250">
-   <img src="/HTML Course.jpg" alt="cert" width="200" height="250">
-   <img src="/java-certificates_TAU-282d8afc.png" alt="cert" width="200" height="250">
-   <img src="/brs1.png" alt="cert" width="200" height="250">
-   <img src="/brs2.png" alt="cert" width="200" height="250">
-   <img src="/brs3.png" alt="cert" width="200" height="250">
+   <img src="/JavaScript.png" alt="cert" width="200" height="200">
+   <img src="/python.png" alt="cert" width="200" height="200">
+   <img src="/RPA & Intelligent Automation using Python certificate.jpg" alt="cert" width="200" height="200">
+   <img src="/CSS,JavaScript,PHP.png" alt="cert" width="200" height="200">
+   <img src="/php.png" alt="cert" width="200" height="200">
+   <img src="/HTML Course.jpg" alt="cert" width="200" height="200">
+   <img src="/java-certificates_TAU-282d8afc.png" alt="cert" width="200" height="200">
+   <img src="/brs1.png" alt="cert" width="200" height="200">
+   <img src="/brs2.png" alt="cert" width="200" height="200">
+   <img src="/brs3.png" alt="cert" width="200" height="200">
 
  </p>
 
