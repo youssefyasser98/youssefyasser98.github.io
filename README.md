@@ -33,7 +33,7 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
 <div> 
       <h3> Pokedox </h3>  
       <br>
-      <video width="320" height="240" controls> <source src="pokemom.mp4" type="video/mp4"> </video> 
+      <video width="600" height="400" controls> <source src="pokemom.mp4" type="video/mp4"> </video> 
       <br>
       <br>
       <h3> Twitter Clone App </h3>  
