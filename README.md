@@ -38,19 +38,19 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
       <br>
       <h3> Twitter Clone App </h3>  
        <p align="left">
-        <img src="/twitter1.png" alt="html" width="600" height="300">
-        <img src="/twitter2.png" alt="html" width="600" height="300">
-        <img src="/twitter3.png" alt="html" width="600" height="300">
+        <img src="/twitter1.png" alt="html" width="600" height="400">
+        <img src="/twitter2.png" alt="html" width="600" height="400">
+        <img src="/twitter3.png" alt="html" width="600" height="400">
        </p>
       <br>
    <h3> Weather Journal App </h3>  
        <p align="left">
-        <img src="/weather.png" alt="html" width="600" height="300">
+        <img src="/weather.png" alt="html" width="600" height="400">
        </p>
       <br>
    <h3> My Reads: A Book Tracing App </h3>  
        <p align="left">
-        <img src="/Screenshot (40).png " alt="html" width="600" height="300">
+        <img src="/Screenshot (40).png " alt="html" width="600" height="400">
        </p>
       <br>
 </div>
