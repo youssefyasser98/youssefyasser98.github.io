@@ -1,6 +1,12 @@
 ## Portfolio
 
-I am a Software Engineering Graduate , graduated from Arab Academy for Science, Technology and Maritime Transport "College of Computer Science" with GPA :3.82
+ I am a Software Engineering Graduate , graduated from Arab Academy for Science, Technology and Maritime Transport "College of Computer Science" with GPA :3.82
+
+---
+
+## Career Objective
+
+ Seeking a career opportunity within a progressive and active environment . Would also like to utilize all my skills and experience as well as my education furthermore in Software Engineering/Software Development/ Web Development/Cloud Computing/ Data Science / Artificial Intelligence & Machine Learning.
 
 ---
 
