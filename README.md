@@ -9,10 +9,15 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
 <p align='left'>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </p>
+
+---
+
+## Certificates
+ 
 
 ---
 
@@ -33,12 +38,13 @@ Worked with packages team to build mobile website using React, typsecript and gr
 ## Education
 
 ### **Arab Academy for Science, Technology and Maritime Transport**
-### College of Computer Science , Major : Software Engineering (2016- 2020)
+### College of Computer Science 
+### Major : Software Engineering (2016- 2020)
 GPA : 3.82 "Excellent with Honors"
 
 ---
 
 ### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
+Apart from being a web developer, I play several Sports and read books.
 
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
+I enjoy being outdoors, so i go for a run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play video games and meditate in my free time.
