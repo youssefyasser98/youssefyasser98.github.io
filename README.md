@@ -83,7 +83,7 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
 ### **Arab Academy for Science, Technology and Maritime Transport (2016- 2020)**
 ### College of Computer Science 
 ### Major : Software Engineering (2016- 2020)
-  GPA : 3.82 "Excellent with Honors"
+### GPA : 3.82 "Excellent with Honors"
 
 ---
 
