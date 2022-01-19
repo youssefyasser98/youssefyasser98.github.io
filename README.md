@@ -32,7 +32,7 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
  
  <p>
    <a href="https://drive.google.com/file/d/1NPGYCQZKvJB94C-8DoheLWMd9cEWeY8z/view">JavaScript</a>
-    <img src="https://drive.google.com/file/d/1NPGYCQZKvJB94C-8DoheLWMd9cEWeY8z/view" alt="html">
+    <img src="/java-certificates_TAU-282d8afc.png" alt="cert">
  </p>
 
 ---
