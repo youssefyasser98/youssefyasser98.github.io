@@ -28,15 +28,6 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
 
 ---
 
-## Certificates
- 
- <p>
-   <a href="https://drive.google.com/file/d/1NPGYCQZKvJB94C-8DoheLWMd9cEWeY8z/view">JavaScript</a>
-    <img src="/java-certificates_TAU-282d8afc.png" alt="cert">
- </p>
-
----
-
 ## Experience
 
 ### **COMPUTER DATA ENTRY AND SPECIALIST**
@@ -57,6 +48,22 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
 ### College of Computer Science 
 ### Major : Software Engineering (2016- 2020)
 GPA : 3.82 "Excellent with Honors"
+
+---
+
+## Certificates
+ 
+ <p align="left">
+   <img src="" alt="cert">
+   <img src="" alt="cert">
+   <img src="" alt="cert">
+   <img src="" alt="cert">
+   <img src="" alt="cert">
+   <img src="" alt="cert">
+   <img src="" alt="cert">
+   <img src="" alt="cert">
+   <img src="/java-certificates_TAU-282d8afc.png" alt="cert">
+ </p>
 
 ---
 
