@@ -9,4 +9,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/youssef-yasser-133a91161/">LinkedIn Profile</a>
   <br>
   <a href="https://www.gihub.com/youssefyasser98/">Gihub</a> 
+  <br>
+  <span>Phone Number : 01223864289</span>
+  <span>Address : Cairo , Egypt</span>
+
 theme: jekyll-theme-minimal
