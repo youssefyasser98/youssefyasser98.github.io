@@ -38,7 +38,7 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
       <br>
       <h3> Twitter Clone App </h3>  
        <p align="left">
-        <img src="/twitter1.png" alt="html" width="300" height="300">
+        <img src="/twitter1.png" alt="html" width="500" height="300">
         <img src="/twitter2.png" alt="html" width="300" height="300">
         <img src="/twitter3.png" alt="html" width="300" height="300">
        </p>
