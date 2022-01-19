@@ -32,6 +32,7 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
 ### Double-II Company
 
  Developed an e-commerce website and web application for selling and displaying various 3D Objects. Designed and developed web applications and user interfaces using JavaScript frameworks, HTML, CSS, Node.js, AJAX, jQuery, Redux and React.js
+ 
 ---
 
 ## Education
