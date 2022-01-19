@@ -50,7 +50,7 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
       <br>
    <h3> My Reads: A Book Tracing App </h3>  
        <p align="left">
-        <img src="/weather.png" alt="html" width="300" height="300">
+        <img src="/Screenshot (40).png " alt="html" width="300" height="300">
        </p>
       <br>
 </div>
