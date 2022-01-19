@@ -53,6 +53,12 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
         <img src="/Screenshot (40).png " alt="html" width="600" height="400">
        </p>
       <br>
+   <h3> Multi-Section Landing Page </h3>  
+       <p align="left">
+        <img src="/landing1.png " alt="html" width="600" height="400">
+        <img src="/landing2.png " alt="html" width="600" height="400">
+       </p>
+      <br>
 </div>
 
 
