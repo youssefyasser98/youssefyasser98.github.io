@@ -67,6 +67,7 @@ GPA : 3.82 "Excellent with Honors"
    <img src="/brs1.png" alt="cert" width="200" height="200">
    <img src="/brs2.png" alt="cert" width="200" height="200">
    <img src="/brs3.png" alt="cert" width="200" height="200">
+   <img src="/uipath.png" alt="cert" width="200" height="200" >
 
  </p>
 
