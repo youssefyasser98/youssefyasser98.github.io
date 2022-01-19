@@ -14,10 +14,11 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="html" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" alt="html" width="40" height="40">
+  <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="html" width="40" height="40">
    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="html" width="40" height="40">
    <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png" alt="html" width="50" height="40">
-  <img src="https://www.logolynx.com/topic/java#&gid=1&pid=3" alt="html" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Java_20131025_1864663017.jpg" alt="html" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" alt="html" width="50" height="40">
    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="html" width="50" height="40">
      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="html" width="60" height="40">
