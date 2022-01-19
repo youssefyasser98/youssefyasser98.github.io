@@ -54,9 +54,9 @@ GPA : 3.82 "Excellent with Honors"
 ## Certificates
  
  <p align="left">
-   <img src="/Udacity2.png" alt="cert" width="190" height="190">
-   <img src="/Udacity1.png" alt="cert" width="190" height="190">
-   <img src="/ITI .Net Web Development.jpeg" alt="cert">
+   <img src="/Udacity2.png" alt="cert" width="200" height="200">
+   <img src="/Udacity1.png" alt="cert" width="200" height="200">
+   <img src="/ITI .Net Web Development.jpeg" alt="cert" width="200" height="200">
    <img src="/python.png" alt="cert">
    <img src="/RPA & Intelligent Automation using Python certificate.jpg" alt="cert">
    <img src="/CSS,JavaScript,PHP.png" alt="cert">
