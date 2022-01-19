@@ -31,8 +31,7 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
 ## Projects
 
 <div> 
- Pokedox
-   <video width="320" height="240" controls>  <source src="movie.mp4" type="video/mp4"> </video>
+   <video width="320" height="240" controls> Pokedox  <source src="movie.mp4" type="video/mp4"> </video>
 </div>
 
 
