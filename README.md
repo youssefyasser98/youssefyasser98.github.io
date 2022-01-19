@@ -10,17 +10,17 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
    <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="40" height="40"/>
    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="html" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/.NET_Logo.svg" alt="html" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="html" width="40" height="40">
    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="html" width="40" height="40">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png" alt="html" width="40" height="40">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/NodeJS.png" alt="html" width="50" height="40">
    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-vertical.svg" alt="html" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" alt="html" width="40" height="40">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="html" width="40" height="40">
-     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="html" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/640px-Sql_data_base_with_logo.png" alt="html" width="50" height="40">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="html" width="50" height="40">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="html" width="60" height="40">
 
 
 </p>
