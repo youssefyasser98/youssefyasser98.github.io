@@ -26,13 +26,12 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
 ### **COMPUTER DATA ENTRY AND SPECIALIST**
 ### Kobry EL Kobba Medical Complex
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+ Collaborated with senior management to improve accuracy in data input and field-to-correspondences communication methods. Responsible of regular correspondences, spreadsheet maintenance, and other data-related administrative tasks. Maintained security and confidentiality of all files and machinery according to military standards.Created and generated reports on patients’ personal information, insurance coverage, and diagnosis codes
 
 ### **FRONTEND DEVELOPER INTERN**
 ### Double-II Company
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
+ Developed an e-commerce website and web application for selling and displaying various 3D Objects. Designed and developed web applications and user interfaces using JavaScript frameworks, HTML, CSS, Node.js, AJAX, jQuery, Redux and React.js
 ---
 
 ## Education
