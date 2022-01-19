@@ -88,7 +88,7 @@
 
 ### **Arab Academy for Science, Technology and Maritime Transport (2016- 2020)**
 ### College of Computer Science 
-### Major : Software Engineering (2016- 2020)
+### Major : Software Engineering 
 ### GPA : 3.82 "Excellent with Honors"
 
 ---
