@@ -30,7 +30,7 @@ I am a Software Engineering Graduate , graduated from Arab Academy for Science, 
 
 ## Certificates
  
- <p align="left">
+ <p>
    <img src="https://drive.google.com/file/d/1NPGYCQZKvJB94C-8DoheLWMd9cEWeY8z/view" alt="certificate"  >
  </p>
 
